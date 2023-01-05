@@ -11,6 +11,9 @@ defaultContentLanguage = "en"
 # 是否使用 robots.txt
 enableRobotsTXT = true
 
+# To deploy to github pages
+canonifyURLs = true
+
 # length of summary
 summaryLength = 50
 
