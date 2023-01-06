@@ -1,7 +1,7 @@
 ---
 title: "First Post"
 date: 2023-01-01T23:32:44-05:00
-draft: true
+draft: false
 image: "/images/author.png"
 tags: ["test", "tag"]
 categories: ["c1", "c2"]
